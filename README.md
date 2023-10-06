@@ -17,7 +17,7 @@
 
 ### Algorithm study in Baekjoon Online Judge
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jjajang)](https://solved.ac/20193115)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=20193115)](https://solved.ac/20193115)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeon0820&show_icons=true)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeon0820&layout=compact)](https://github.com/tlswl7479/github-readme-stats)
